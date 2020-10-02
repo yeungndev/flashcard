@@ -6,7 +6,7 @@ user_description: Programmer (Interested in Philosophy and Math)
 copyright_name: John Doe
 baseurl: "/flashcard" # the subpath of your site, e.g. /blog
 # url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://yeungndev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yeungndev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
