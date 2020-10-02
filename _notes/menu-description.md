@@ -7,6 +7,7 @@ title: menu description
   - [Cold Dishes](#cold-dishes)
   - [Hot Dishes](#hot-dishes)
   - [Desserts](#desserts)
+  - [Lunch](#lunch)
 - [Specialty Cocktails](#specialty-cocktails)
   - [Grand Cordon](#grand-cordon)
 - [Wines by the Glass](#wines-by-the-glass)
@@ -58,44 +59,50 @@ title: menu description
 
 ### Hot Dishes
 
-Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing[[::srs]]
-Squid 'Pasta' with Light Garlic Sauce[[::srs]]
-Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu30|[[::srs]]
-King Crab Tempura Amazu Ponzu43|[[::srs]]
-Lobster Tempura Amazu Ponzu (Half Lobster)[[::srs]]
-Shrimp and Lobster with Spicy Lemon Sauce[[::srs]]
-Short Rib Jalapeno Salsa (per piece[[::srs]]
-Lamb Chop with Anticucho Miso (per piece)[[::srs]]
-Grilled Chicken - Choice of Sauce[[::srs]]
-Grilled Salmon - Choice of Sauce[[::srs]]
-Beef Tenderloin - Choice of Sauc[[::srs]]
-NOBU TACOS Price per piece - 2 pieces mini[[::srs]]
-Shiitake Salad with Spicy Lemon Dressing[[::srs]]
-Baby Spinach Salad with Dry Miso[[::srs]]
-Crispy Rice with Spicy Avocado[[::srs]]
-Roasted Cauliflower Jalapeno Sals[[::srs]]
-Shojin - Vegetable Tempura Selection[[::srs]]
-Tofu & Vegetables Spicy Garlic[[::srs]]
+Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing[[garlic, onion::srs]]
+Squid 'Pasta' with Light Garlic Sauce[[soy, gluten, mushrooms, sesame, alcohol::srs]]
+Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu30|[[soy, gluten, shellfish, garlic, mushrooms::srs]]
+King Crab Tempura Amazu Ponzu43|[[soy, gluten, shellfish, mushroom (honey truffle aioli only)::srs]]
+Lobster Tempura Amazu Ponzu (Half Lobster)[[soy, gluten, shellfish, onion, garlic, (creamy spicy sauce only)::srs]]
+Shrimp and Lobster with Spicy Lemon Sauce[[soy, gluten, garlic, onion, mushroom, shellfish::srs]]
+Short Rib Jalapeno Salsa (per piece[[soy, onion, alcohol, garlic, gluten::srs]]
+Lamb Chop with Anticucho Miso (per piece)[[soy, gluten, garlic, onion, alcohol::srs]]
+Grilled Chicken - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
+Grilled Salmon - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
+Beef Tenderloin - Choice of Sauc[[soy, gluten, alcohol, sesame, garlic::srs]]
 
-A5 WAGYU BEEF From Japan 38 per ou
+NOBU TACOS Price per piece - 2 pieces mini[[::srs]]
+
+Shiitake Salad with Spicy Lemon Dressing[[soy, gluten, sesame, mushrooms, garlic::srs]]
+Baby Spinach Salad with Dry Miso[[soy, dairy, mushroom, shellfish::srs]]
+Crispy Rice with Spicy Avocado[[soy, gluten, garlic, dairy, alcohol::srs]]
+Roasted Cauliflower Jalapeno Sals[[garlic, onion::srs]]
+Shojin - Vegetable Tempura Selection[[soy, gluten, seafood (in sauce), (may contain) mushroom, onion::srs]]
+Tofu & Vegetables Spicy Garlic[[soy, gluten, garlic, mushroom alcohol::srs]]
+
+A5 Wagyu Beef From Japan 38 per ou
 Choice of Style - Tataki / New Style / St
 
-Nigiri / Sash
+Nigiri / Sashimi
 
 ### Desserts
 
-BENTO BOX Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato 17
-BANANA SOY TOBAN Soy Caramelized Banana, Candied Pecans, Malaga Gelato 16
-WHISKY CAPPUCCINO Cardamom Cream, Toasted Cinnamon Crunch, Espresso Gelato, Whisky Foam 15
-SOBACHA BROWNIE Brownie, Salted Caramel, Milk Chocolate Cremeux, Caramel Sobacha Bar Gelato 17
-DOWNTOWN MONKFRUIT CHEESECAKE Cheesecake, Strawberry Coulis, Black Sesame 16
-PINEAPPLE COCONUT CAKE Coconut Sponge, Vanilla Roasted Pineapple, Coconut Mousse, Shiro Goma Praline, Lemon Sorbet 16
-HOUSE-MADE GELATO OR SORBET 14
-MOCHI ICE CREAM (3 pieces) 15
-CLASSIC BENTO BOX Sashimi Salad, Assorted Sushi, Rock Shrimp Tempura Creamy Spicy, Black Cod with Miso, Miso Soup and White Rice 50
-POWER BENTO BOX Sashimi Salad, Yellowtail Jalapeno, 3 pcs Nigiri, King Crab Tempura Amazu Ponzu, Black Cod with Miso, Tenderloin Anticucho, Miso Soup and White Rice 75
-SUSHI SELECTION Chef Choice of 8 pieces of Nigiri, Tuna Roll, Miso Soup 57
-SASHIMI SELECTION Chef Choice of 12 pieces of Sashimi, Miso Soup, Rice 57
+Bento Box Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato[[dairy, eggs, caffeine, chocolate::srs]]
+Banana Soy Toban Soy Caramelized Banana, Candied Pecans, Malaga Gelato 16
+Whisky Cappuccino Cardamom Cream, Toasted Cinnamon Crunch, Espresso Gelato, Whisky Foam [[gluten, dairy, nuts (almonds), alcohol, eggs, geletin, caffeine::srs]]
+Sobacha Brownie Brownie, Salted Caramel, Milk Chocolate Cremeux, Caramel Sobacha Bar Gelato [[dairy, eggs, gluten, chocolate, salt::srs]]
+Downtown Monkfruit Cheesecake Cheesecake, Strawberry Coulis, Black Sesame [[dairy, sesame, fruit::srs]]
+Pineapple Coconut Cake Coconut Sponge, Vanilla Roasted Pineapple, Coconut Mousse, Shiro Goma Praline, Lemon Sorbet 16
+House-Made Gelato OR SORBET 14
+Mochi Ice Cream (3 pieces) 15
+
+---
+
+### Lunch
+Classic Bento Box Sashimi Salad, Assorted Sushi, Rock Shrimp Tempura Creamy Spicy, Black Cod with Miso, Miso Soup and White Rice 50
+Power Bento Box Sashimi Salad, Yellowtail Jalapeno, 3 pcs Nigiri, King Crab Tempura Amazu Ponzu, Black Cod with Miso, Tenderloin Anticucho, Miso Soup and White Rice 75
+SUshi Selection Chef Choice of 8 pieces of Nigiri, Tuna Roll, Miso Soup 57
+Sashimi Selection Chef Choice of 12 pieces of Sashimi, Miso Soup, Rice 57
  
 ---
 
@@ -105,20 +112,20 @@ SASHIMI SELECTION Chef Choice of 12 pieces of Sashimi, Miso Soup, Rice 57
 Winner of the Nationwide Nobu Cocktail Competition
 Victor H. Carreon of Nobu Newport Beach
 
-KAIKETSU Uncle Nearest 1856 Whiskey, Apple Shrub, Ginger Syrup, Matsuhisa Cabernet Sauvignon Reduction & Orange Bitters 20
+Kaiketsu Uncle Nearest 1856 Whiskey, Apple Shrub, Ginger Syrup, Matsuhisa Cabernet Sauvignon Reduction & Orange Bitters 20
 
-COCO LIME (12 oz Bottle) Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup 36
+Coco Lime (12 oz Bottle) Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup 36
 
-LYCHEE MARTINI Spring 44 Vodka, Lychee 19
-MATSUHISA MARTINI Belvedere Vodka, Junmai Sake, Ginger 19
-GRAPEFRUIT MARTINI Sipsmith Gin, Elderflower Liqueur, Grapefruit & Lime 20
-BLOOD ORANGE MARTSpring 44 Vodka, St. Germain Elderflower, Blood Orange & Lime 19
-MIA MARGARITA Corralejo Anejo Tequila, Passion Fruit, Shichimi, Honey & Lime 19
-PINA MARTINI Van Gogh Pineapple Vodka, Giffard Creme de Peche, Pineapple, Lime 19
+Lychee Martini Spring 44 Vodka, Lychee 19
+Matsuhisa Martini Belvedere Vodka, Junmai Sake, Ginger 19
+Grapefruit Martini Sipsmith Gin, Elderflower Liqueur, Grapefruit & Lime 20
+Blood Orange Martini Spring 44 Vodka, St. Germain Elderflower, Blood Orange & Lime 19
+Mia Margarita Corralejo Anejo Tequila, Passion Fruit, Shichimi, Honey & Lime 19
+Pina Martini Van Gogh Pineapple Vodka, Giffard Creme de Peche, Pineapple, Lime 19
 212 Bulliet Rye, Black Sesame Infused Cocchi Vermouth di Torino, Creole & Orange Bitters 20
-SCARLET Sipsmith Gin, St. Germain Elderflower, Green Chartreuse, Cucumber, Lime & Pepper 20
-NOBU SIDECAR Iwai Tradition Japanese Whisky, Orange Liqueur & Yuzu 22
-BARREL AGED OLD FASHIONED Kikori Whiskey, Luxardo Cherry, Demerara Sugar & Angostura 22
+Scarlet Sipsmith Gin, St. Germain Elderflower, Green Chartreuse, Cucumber, Lime & Pepper 20
+Nobu Sidecar Iwai Tradition Japanese Whisky, Orange Liqueur & Yuzu 22
+Barrel Aged Old Fashioned Kikori Whiskey, Luxardo Cherry, Demerara Sugar & Angostura 22
 
 ---
 
@@ -158,19 +165,19 @@ Nobu Matsuhisa, Cabernet Sauvignon, Sonoma, California 17 23
 
 Exclusively Imported for Nobu Worldwide
 
-GINJO NIGORI Unfiltered, dry and creamy
-JUNMAI Medium bodied with rich notes and a creamy finish
-HONJOZO ONIGOROSHI "DEVIL KILLER" Light-bodied, crisp and dry with a spicy finish
-DAIGINJO "BLACK LABEL THE ORIGINAL" Medium-bodied, light and crisp with a nutty character
-NOBU JUNMAI GINJO 71 Medium-bodied, fruit forward with a bright finish
-HONJOZO ONGAKUSHI KOSHU "MUSIC SAKE" Aged to classical music; full-bodied and rich with earthy flavors
-NOBU JUNMAI DAIGINJO "THE SAKE" Medium-bodied, clean and complex with floral notes
-NOBU DAIGINJO TK40 "THE PREMIUM SAKE" Medium-bodied, delicate and creamy
-NOBU DAIGINJO YK35 Medium-bodied, rare, luxurious, silky and smooth
-YK-35 "ENSHINBUNRI" The rice grain, Yamada Nishiki, is polished down to 35% of its original size and is then extracted through a centrifugal process to bring out delicate fragrances of Melons, Grapefruits and White Flowers.Bottle 24 oz 700
-JUNMAI DAIGINJO TK40 GENSHU ENSHINBUNRI 'HIKARI' The rare hybrid rice grain, Koshitanrei, is polished to 40% of its original size to produce this premium sake. Elegant floral flavors of Orange Blossom, Elderflower, and White Tea are found in this powerful Genshu, or undiluted sake. Bottle 24 oz 670 
-YK-35 SHIZUKU The most sought-after rice grain, Yamada Nishiki, is polished to 35% of its original size to produce this premium sake. The sake is extracted through a slow drip process that highlights delicate flavors of Lychee, Honeydew, and Pear. Fruit forward and amazingly smooBottle 24 oz 400
-DAIGINJO YK35 SHIZUKU JUKUSEI KOSHU This is the YK35 Shizuku, aged for three years. The aging process has added structure to the delicate Nashi Pear flavor becoming highly complex with a deep richness not found in young sake. This is made in extremely limited quantities. Bottle 60 oz 2,500
+Ginjo Nigori Unfiltered, dry and creamy
+Junmai Medium bodied with rich notes and a creamy finish
+Honjozo Onigoroshi "Devil Killer" Light-bodied, crisp and dry with a spicy finish
+Daiginjo "Black Label The Original" Medium-bodied, light and crisp with a nutty character
+Nobu Junmai Ginjo 71 Medium-bodied, fruit forward with a bright finish
+Honjozo Ongakushi Koshu "Music Sake" Aged to classical music; full-bodied and rich with earthy flavors
+Nobu Junmai Daiginjo "The Sake" Medium-bodied, clean and complex with floral notes
+Nobu Daiginjo Tk40 "The Premium Sake" Medium-bodied, delicate and creamy
+Nobu Daiginjo YK35 Medium-bodied, rare, luxurious, silky and smooth
+YK-35 "Enshinbunri" The rice grain, Yamada Nishiki, is polished down to 35% of its original size and is then extracted through a centrifugal process to bring out delicate fragrances of Melons, Grapefruits and White Flowers.Bottle 24 oz 700
+Junmai Daiginjo Tk40 Genshu Enshinbunri 'Hikari' The rare hybrid rice grain, Koshitanrei, is polished to 40% of its original size to produce this premium sake. Elegant floral flavors of Orange Blossom, Elderflower, and White Tea are found in this powerful Genshu, or undiluted sake. Bottle 24 oz 670 
+YK-35 Shizuku The most sought-after rice grain, Yamada Nishiki, is polished to 35% of its original size to produce this premium sake. The sake is extracted through a slow drip process that highlights delicate flavors of Lychee, Honeydew, and Pear. Fruit forward and amazingly smooBottle 24 oz 400
+Daiginjo YK35 Shizuku Jukusei Koshu This is the YK35 Shizuku, aged for three years. The aging process has added structure to the delicate Nashi Pear flavor becoming highly complex with a deep richness not found in young sake. This is made in extremely limited quantities. Bottle 60 oz 2,500
 
 ---
 
