@@ -266,22 +266,22 @@ El Maestro Sierra Pedro Ximenez NV 12
 
 ## Non-Alcoholic Drinks
 
-LYCHEE MANGO Mango, Lychee & Cranberry 12
-WILD ORCHID Black Orchid Tea, Elderflower Cordial, Blackberry & Lemon 12
-PEPINO Cucumber, Lychee, Pineapple & Lemon 12
-GRAPEFRUIT ON THE ROCKS Grapefruit Juice, Elderflower Cordial, Lime & Grated Lime Zest 12
+Lychee Mango Mango, Lychee & Cranberry 12
+Wild Orchid Black Orchid Tea, Elderflower Cordial, Blackberry & Lemon 12
+Pepino Cucumber, Lychee, Pineapple & Lemon 12
+Grapefruit On The Rocks Grapefruit Juice, Elderflower Cordial, Lime & Grated Lime Zest 12
 Ferrarelle Sparkling Water 10
 
 ---
 
 ## Ikaati Tea
 
-HOJICHA Warm smoky notes with hints of caramel 9
-BLACK ORCHID Ylang ylang flower scented, with smooth vanilla & mandarin notes 9
-NOBU SHISO Captivating fragrance of shiso leaf, delicate sweetness, subtle character 9
-SOBACHA Rich malty and nutty aroma with a smooth buttery finish 9
-LEMONGRASS GINGER Aromatic lemongrass, balanced with warm, spicy ginger 9
-SOOTHE Comforting floral note with relaxing minty scent 9
+Hojicha Warm smoky notes with hints of caramel 9
+Black Orchid Ylang ylang flower scented, with smooth vanilla & mandarin notes 9
+Nobu Shiso Captivating fragrance of shiso leaf, delicate sweetness, subtle character 9
+Sobacha Rich malty and nutty aroma with a smooth buttery finish 9
+Lemongrass Ginger Aromatic lemongrass, balanced with warm, spicy ginger 9
+Soothe Comforting floral note with relaxing minty scent 9
 
 ---
 
