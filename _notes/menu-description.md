@@ -14,22 +14,25 @@ title: menu description
 - Baby Spinach Salad with Lobster[[soy, dairy, mushroom, shellfish::srs]]
 - Black Cod Butter Lettuce (2 pieces)[[soy, gluten, garlic, alcohol::srs]]
 
+---
+
 ### Hot Dishes
 
-- Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing[[garlic, onion::srs]]
+- Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing[[garlic, onion::srs]] 
 - Squid 'Pasta' with Light Garlic Sauce[[soy, gluten, mushrooms, sesame, alcohol::srs]]
-- Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu30|[[soy, gluten, shellfish, garlic, mushrooms::srs]]
-- King Crab Tempura Amazu Ponzu43|[[soy, gluten, shellfish, mushroom (honey truffle aioli only)::srs]]
+- Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu[[soy, gluten, shellfish, garlic, mushrooms::srs]]
+- King Crab Tempura Amazu Ponzu[[soy, gluten, shellfish, mushroom (honey truffle aioli only)::srs]]
 - Lobster Tempura Amazu Ponzu (Half Lobster)[[soy, gluten, shellfish, onion, garlic, (creamy spicy sauce only)::srs]]
 - Shrimp and Lobster with Spicy Lemon Sauce[[soy, gluten, garlic, onion, mushroom, shellfish::srs]]
-- Short Rib Jalapeno Salsa (per piece[[soy, onion, alcohol, garlic, gluten::srs]]
-- Lamb Chop with Anticucho Miso (per piece)[[soy, gluten, garlic, onion, alcohol::srs]]
-- Grilled Chicken - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
-- Grilled Salmon - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
-- Beef Tenderloin - Choice of Sauc[[soy, gluten, alcohol, sesame, garlic::srs]]
+- Short Rib Jalapeno Salsa[[soy, onion, alcohol, garlic, gluten::srs]]
+- Lamb Chop with Anticucho Miso[[soy, gluten, garlic, onion, alcohol::srs]]
+- Grilled Chicken [[soy, gluten, alcohol, sesame, garlic::srs]]
+- Grilled Salmon [[soy, gluten, alcohol, sesame, garlic::srs]]
+- Beef Tenderloin [[soy, gluten, alcohol, sesame, garlic::srs]]
+
+---
 
 - NOBU TACOS Price per piece - 2 pieces min
-
 - Shiitake Salad with Spicy Lemon Dressing[[soy, gluten, sesame, mushrooms, garlic::srs]]
 - Baby Spinach Salad with Dry Miso[[soy, dairy, mushroom, shellfish::srs]]
 - Crispy Rice with Spicy Avocado[[soy, gluten, garlic, dairy, alcohol::srs]]
@@ -37,29 +40,38 @@ title: menu description
 - Shojin - Vegetable Tempura Selection[[soy, gluten, seafood (in sauce), (may contain) mushroom, onion::srs]]
 - Tofu & Vegetables Spicy Garlic[[soy, gluten, garlic, mushroom alcohol::srs]]
 
+---
+
 A5 Wagyu Beef From Japan 38 per ou
-Choice of Style - Tataki / New Style / St
+- Tataki
+- New Style
+- Steak
+
+---
 
 Nigiri / Sashimi
 
+---
+
 ### Desserts
 
-Bento Box Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato[[dairy, eggs, caffeine, chocolate::srs]]
-Banana Soy Toban Soy Caramelized Banana, Candied Pecans, Malaga Gelato 16
+- Bento Box Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato[[dairy, eggs, caffeine, chocolate::srs]]
+- Banana Soy Toban Soy Caramelized Banana, Candied Pecans, Malaga Gelato
 Whisky Cappuccino Cardamom Cream, Toasted Cinnamon Crunch, Espresso Gelato, Whisky Foam [[gluten, dairy, nuts (almonds), alcohol, eggs, geletin, caffeine::srs]]
-Sobacha Brownie Brownie, Salted Caramel, Milk Chocolate Cremeux, Caramel Sobacha Bar Gelato [[dairy, eggs, gluten, chocolate, salt::srs]]
-Downtown Monkfruit Cheesecake Cheesecake, Strawberry Coulis, Black Sesame [[dairy, sesame, fruit::srs]]
-Pineapple Coconut Cake Coconut Sponge, Vanilla Roasted Pineapple, Coconut Mousse, Shiro Goma Praline, Lemon Sorbet 16
-House-Made Gelato OR SORBET 14
-Mochi Ice Cream (3 pieces) 15
+- Sobacha Brownie Brownie, Salted Caramel, Milk Chocolate Cremeux, Caramel Sobacha Bar Gelato [[dairy, eggs, gluten, chocolate, salt::srs]]
+- Downtown Monkfruit Cheesecake Cheesecake, Strawberry Coulis, Black Sesame [[dairy, sesame, fruit::srs]]
+- Pineapple Coconut Cake Coconut Sponge, Vanilla Roasted Pineapple, Coconut Mousse, Shiro Goma Praline, Lemon Sorbet
+- House-Made Gelato or Sorbet
+- Mochi Ice Cream (3 pieces)
 
 ---
 
 ### Lunch
-Classic Bento Box Sashimi Salad, Assorted Sushi, Rock Shrimp Tempura Creamy Spicy, Black Cod with Miso, Miso Soup and White Rice 50
-Power Bento Box Sashimi Salad, Yellowtail Jalapeno, 3 pcs Nigiri, King Crab Tempura Amazu Ponzu, Black Cod with Miso, Tenderloin Anticucho, Miso Soup and White Rice 75
-SUshi Selection Chef Choice of 8 pieces of Nigiri, Tuna Roll, Miso Soup 57
-Sashimi Selection Chef Choice of 12 pieces of Sashimi, Miso Soup, Rice 57
+
+- Classic Bento Box Sashimi Salad, Assorted Sushi, Rock Shrimp Tempura Creamy Spicy, Black Cod with Miso, Miso Soup and White Rice 50
+- Power Bento Box Sashimi Salad, Yellowtail Jalapeno, 3 pcs Nigiri, King Crab Tempura Amazu Ponzu, Black Cod with Miso, Tenderloin Anticucho, Miso Soup and White Rice 75
+- Sushi Selection Chef Choice of 8 pieces of Nigiri, Tuna Roll, Miso Soup 57
+- Sashimi Selection Chef Choice of 12 pieces of Sashimi, Miso Soup, Rice 57
  
 ---
 
@@ -69,52 +81,52 @@ Sashimi Selection Chef Choice of 12 pieces of Sashimi, Miso Soup, Rice 57
 Winner of the Nationwide Nobu Cocktail Competition
 Victor H. Carreon of Nobu Newport Beach
 
-Kaiketsu Uncle Nearest 1856 Whiskey, Apple Shrub, Ginger Syrup, Matsuhisa Cabernet Sauvignon Reduction & Orange Bitters 20
+- Kaiketsu Uncle Nearest 1856 Whiskey, Apple Shrub, Ginger Syrup, Matsuhisa Cabernet Sauvignon Reduction & Orange Bitters 20
 
-Coco Lime (12 oz Bottle) Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup 36
+- Coco Lime (12 oz Bottle) Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup 36
 
-Lychee Martini Spring 44 Vodka, Lychee 19
-Matsuhisa Martini Belvedere Vodka, Junmai Sake, Ginger 19
-Grapefruit Martini Sipsmith Gin, Elderflower Liqueur, Grapefruit & Lime 20
-Blood Orange Martini Spring 44 Vodka, St. Germain Elderflower, Blood Orange & Lime 19
-Mia Margarita Corralejo Anejo Tequila, Passion Fruit, Shichimi, Honey & Lime 19
-Pina Martini Van Gogh Pineapple Vodka, Giffard Creme de Peche, Pineapple, Lime 19
-212 Bulliet Rye, Black Sesame Infused Cocchi Vermouth di Torino, Creole & Orange Bitters 20
-Scarlet Sipsmith Gin, St. Germain Elderflower, Green Chartreuse, Cucumber, Lime & Pepper 20
-Nobu Sidecar Iwai Tradition Japanese Whisky, Orange Liqueur & Yuzu 22
-Barrel Aged Old Fashioned Kikori Whiskey, Luxardo Cherry, Demerara Sugar & Angostura 22
+- Lychee Martini Spring 44 Vodka, Lychee 19
+- Matsuhisa Martini Belvedere Vodka, Junmai Sake, Ginger 19
+- Grapefruit Martini Sipsmith Gin, Elderflower Liqueur, Grapefruit & Lime 20
+- Blood Orange Martini Spring 44 Vodka, St. Germain Elderflower, Blood Orange & Lime 19
+- Mia Margarita Corralejo Anejo Tequila, Passion Fruit, Shichimi, Honey & Lime 19
+- Pina Martini Van Gogh Pineapple Vodka, Giffard Creme de Peche, Pineapple, Lime 19
+- 212 Bulliet Rye, Black Sesame Infused Cocchi Vermouth di Torino, Creole & Orange Bitters 20
+- Scarlet Sipsmith Gin, St. Germain Elderflower, Green Chartreuse, Cucumber, Lime & Pepper 20
+- Nobu Sidecar Iwai Tradition Japanese Whisky, Orange Liqueur & Yuzu 22
+- Barrel Aged Old Fashioned Kikori Whiskey, Luxardo Cherry, Demerara Sugar & Angostura 22
 
 ---
 
 ## Wines by the Glass
 ### Reserve Selection
 
-Pascal Cotat 'Les Monts Damnes', Sancerre, Loire, France 18 35
-Silver Oak, Cabernet Sauvignon, Alexander Valley, California 15 55
+- Pascal Cotat 'Les Monts Damnes', Sancerre, Loire, France 18 35
+- Silver Oak, Cabernet Sauvignon, Alexander Valley, California 15 55
 
 ### Champange & Sparkling Wine
 
-Syltbar, Prosecco, Italy NV 18
-Nobu Champagne, Brut Grand Cru, Verzy, France NV 22
-Lanson Brut, Rose, France NV 25
-Jakob Schneider, Riesling Kabinett, Niederhauser Klamm, Germany 16 15
+- Syltbar, Prosecco, Italy NV 18
+- Nobu Champagne, Brut Grand Cru, Verzy, France NV 22
+- Lanson Brut, Rose, France NV 25
+- Jakob Schneider, Riesling Kabinett, Niederhauser Klamm, Germany 16 15
 
 ### White Wine
 
-Attems, Pinot Grigio, Fruili, Italy 19 16
-Squealing Pig, Sauvignon Blanc, Marlborough, New Zealand 18 17
-Nobu Matsuhisa, Chardonnay, Russian River, California 18 20
+- Attems, Pinot Grigio, Fruili, Italy 19 16
+- Squealing Pig, Sauvignon Blanc, Marlborough, New Zealand 18 17
+- Nobu Matsuhisa, Chardonnay, Russian River, California 18 20
 
 ### Rose
 
-Chateau la Clapiere 'Cru Classe', Cotes du Provence, France 18 19
+- Chateau la Clapiere 'Cru Classe', Cotes du Provence, France 18 19
 
 ### Red Wine
 
-Arinzano 'Hacienda' Tempranillo, Pago de Arinzano, Spain 15 16
-Achaval-Ferrer, Malbec, Mendoza, Argentina 18 17
-Cambiata, Pinot Noir, Santa Lucia Highlands, California 17 18
-Nobu Matsuhisa, Cabernet Sauvignon, Sonoma, California 17 23
+- Arinzano 'Hacienda' Tempranillo, Pago de Arinzano, Spain 15 16
+- Achaval-Ferrer, Malbec, Mendoza, Argentina 18 17
+- Cambiata, Pinot Noir, Santa Lucia Highlands, California 17 18
+- Nobu Matsuhisa, Cabernet Sauvignon, Sonoma, California 17 23
 
 ---
 
@@ -122,123 +134,123 @@ Nobu Matsuhisa, Cabernet Sauvignon, Sonoma, California 17 23
 
 Exclusively Imported for Nobu Worldwide
 
-Ginjo Nigori Unfiltered, dry and creamy
-Junmai Medium bodied with rich notes and a creamy finish
-Honjozo Onigoroshi "Devil Killer" Light-bodied, crisp and dry with a spicy finish
-Daiginjo "Black Label The Original" Medium-bodied, light and crisp with a nutty character
-Nobu Junmai Ginjo 71 Medium-bodied, fruit forward with a bright finish
-Honjozo Ongakushi Koshu "Music Sake" Aged to classical music; full-bodied and rich with earthy flavors
-Nobu Junmai Daiginjo "The Sake" Medium-bodied, clean and complex with floral notes
-Nobu Daiginjo Tk40 "The Premium Sake" Medium-bodied, delicate and creamy
-Nobu Daiginjo YK35 Medium-bodied, rare, luxurious, silky and smooth
-YK-35 "Enshinbunri" The rice grain, Yamada Nishiki, is polished down to 35% of its original size and is then extracted through a centrifugal process to bring out delicate fragrances of Melons, Grapefruits and White Flowers.Bottle 24 oz 700
-Junmai Daiginjo Tk40 Genshu Enshinbunri 'Hikari' The rare hybrid rice grain, Koshitanrei, is polished to 40% of its original size to produce this premium sake. Elegant floral flavors of Orange Blossom, Elderflower, and White Tea are found in this powerful Genshu, or undiluted sake. Bottle 24 oz 670
-YK-35 Shizuku The most sought-after rice grain, Yamada Nishiki, is polished to 35% of its original size to produce this premium sake. The sake is extracted through a slow drip process that highlights delicate flavors of Lychee, Honeydew, and Pear. Fruit forward and amazingly smooBottle 24 oz 400
-Daiginjo YK35 Shizuku Jukusei Koshu This is the YK35 Shizuku, aged for three years. The aging process has added structure to the delicate Nashi Pear flavor becoming highly complex with a deep richness not found in young sake. This is made in extremely limited quantities. Bottle 60 oz 2,500
+- Ginjo Nigori Unfiltered, dry and creamy
+- Junmai Medium bodied with rich notes and a creamy finish
+- Honjozo Onigoroshi "Devil Killer" Light-bodied, crisp and dry with a spicy finish
+- Daiginjo "Black Label The Original" Medium-bodied, light and crisp with a nutty character
+- Nobu Junmai Ginjo 71 Medium-bodied, fruit forward with a bright finish
+- Honjozo Ongakushi Koshu "Music Sake" Aged to classical music; full-bodied and rich with earthy flavors
+- Nobu Junmai Daiginjo "The Sake" Medium-bodied, clean and complex with floral notes
+- Nobu Daiginjo Tk40 "The Premium Sake" Medium-bodied, delicate and creamy
+- Nobu Daiginjo YK35 Medium-bodied, rare, luxurious, silky and smooth
+- YK-35 "Enshinbunri" The rice grain, Yamada Nishiki, is polished down to 35% of its original size and is then extracted through a centrifugal process to bring out delicate fragrances of Melons, Grapefruits and White Flowers.Bottle 24 oz 700
+- Junmai Daiginjo Tk40 Genshu Enshinbunri 'Hikari' The rare hybrid rice grain, Koshitanrei, is polished to 40% of its original size to produce this premium sake. Elegant floral flavors of Orange Blossom, Elderflower, and White Tea are found in this powerful Genshu, or undiluted sake. Bottle 24 oz 670
+- YK-35 Shizuku The most sought-after rice grain, Yamada Nishiki, is polished to 35% of its original size to produce this premium sake. The sake is extracted through a slow drip process that highlights delicate flavors of Lychee, Honeydew, and Pear. Fruit forward and amazingly smooBottle 24 oz 400
+- Daiginjo YK35 Shizuku Jukusei Koshu This is the YK35 Shizuku, aged for three years. The aging process has added structure to the delicate Nashi Pear flavor becoming highly complex with a deep richness not found in young sake. This is made in extremely limited quantities. Bottle 60 oz 2,500
 
 ---
 
 ## Beer
 
-Koshihikari Echigo Rice Lager 14
-Kawaba 'Sunrise' Amber Ale 14
-Hitachino Nest Red Rice Ale 14
+- Koshihikari Echigo Rice Lager 14
+- Kawaba 'Sunrise' Amber Ale 14
+- Hitachino Nest Red Rice Ale 14
 
 ---
 
 ## Whiskey
 
-Iwai, 'Tradition', Blended 20
-Nikka Taketsuru Pure Malt Blended 20
-Togouchi, 'Malt Grain', Blended 20
-Kikori, Kumamoto, Rice Whisky 22
-Nikka, 'Coffey', Grain Whisky 21
-Suntory, 'Hibiki Harmony', Blended 24
-Suntory, 'Hakushu,' Single Malt, 12 yr 27
-Ichiro's, 'Malt & Grain', Chichibu 30
-Suntory, 'Yamazaki,' Single Malt, 12 yr 32
-Nikka Whisky 'From the Barrel' 36
-Nikka 'Miyagikyo', Single Malt 38
-Nikka 'Yoichi', Single Malt 48
-Suntory, 'Hakushu,' Single Malt, 18 yr
+- Iwai, 'Tradition', Blended 20
+- Nikka Taketsuru Pure Malt Blended 20
+- Togouchi, 'Malt Grain', Blended 20
+- Kikori, Kumamoto, Rice Whisky 22
+- Nikka, 'Coffey', Grain Whisky 21
+- Suntory, 'Hibiki Harmony', Blended 24
+- Suntory, 'Hakushu,' Single Malt, 12 yr 27
+- Ichiro's, 'Malt & Grain', Chichibu 30
+- Suntory, 'Yamazaki,' Single Malt, 12 yr 32
+- Nikka Whisky 'From the Barrel' 36
+- Nikka 'Miyagikyo', Single Malt 38
+- Nikka 'Yoichi', Single Malt 48
+- Suntory, 'Hakushu,' Single Malt, 18 yr
 
 
 ### Nobu Whisky, Single Malt \Yamazaki, Osaka
 
-SUNTORY 'YAMAZAKI', SINGLE MALT, 25 YR
+- Suntory 'YAMAZAKI', SINGLE MALT, 25 YR
 
 ### Bourbon
 
-Hudson, 'Baby Bourbon', New York 16
-Basil Hayden's 8 yr, Kentucky 17
-Woodford Reserve, Kentucky 17
-Knob Creek, 9 yr, Kentucky 17
-Blanton's, 'Single Barrel', Kentucky 18
-Kentucky Owl, 'Wise Man', Kentucky 30
-High West, Double Rye, Utah 16
-Whistle Pig, Rye, Vermont 19
+- Hudson, 'Baby Bourbon', New York 16
+- Basil Hayden's 8 yr, Kentucky 17
+- Woodford Reserve, Kentucky 17
+- Knob Creek, 9 yr, Kentucky 17
+- Blanton's, 'Single Barrel', Kentucky 18
+- Kentucky Owl, 'Wise Man', Kentucky 30
+- High West, Double Rye, Utah 16
+- Whistle Pig, Rye, Vermont 19
 
-Bruichladdich 'Classic Barley', Islay, 10 yr 16
-Monkey Shoulder, Speyside 16
-Glenfiddich, Speyside, 12 yr 17
-Glenlivet, Speyside, 12 yr 18
-Balvenie, 'Carribean Cask', Speyside, 14 yr 18
-Macallan, Speyside, 12 yr 20
-Oban, West Highland, 14 yr 22
-Macallan, Speyside, 18 yr 49
-Johnnie Walker, 'Blue Label' 55
-Balvenie, Speyside, 21 yr 70
-Macallan, Speyside, 25 yr 240
-Macallan 'Reflexion,' Speyside 300
+- Bruichladdich 'Classic Barley', Islay, 10 yr 16
+- Monkey Shoulder, Speyside 16
+- Glenfiddich, Speyside, 12 yr 17
+- Glenlivet, Speyside, 12 yr 18
+- Balvenie, 'Carribean Cask', Speyside, 14 yr 18
+- Macallan, Speyside, 12 yr 20
+- Oban, West Highland, 14 yr 22
+- Macallan, Speyside, 18 yr 49
+- Johnnie Walker, 'Blue Label' 55
+- Balvenie, Speyside, 21 yr 70
+- Macallan, Speyside, 25 yr 240
+- Macallan 'Reflexion,' Speyside 300
 
 ---
 
 ## Vodka
 
-Ketel One, Holland (Citroen, Oranj) 17
-Stolichnaya, Latvia (Razberi, Vanil) 17
-Beluga 'Gold Line,' Russia 28
+- Ketel One, Holland (Citroen, Oranj) 17
+- Stolichnaya, Latvia (Razberi, Vanil) 17
+- Beluga 'Gold Line,' Russia 28
 
 ---
 
 ## Gin
 
-Greenhook Ginsmiths, Brooklyn 16
+- Greenhook Ginsmiths, Brooklyn 16
 
 ---
 
 ## Rum
 
-Monkey 47 Schwarzwald Dry, Germany 20
-Yaguara, 'Blend', Cachaça, Brazil 14
-Sailor Jerry 'Spiced Rum', Carribean 15
-Atlantico Platino, Republica Dominicana 16
-Mount Gay, 'Black Barrel', Barbados 16
-Ron Zacapa, '23 Solera', Guatemala 17
-Ron Zacapa, 'XO Solera', Guatemala 28
-Del Maguey 'Vida', Espadin 16
-El Maestro Sierra Pedro Ximenez NV 12
+- Monkey 47 Schwarzwald Dry, Germany 20
+- Yaguara, 'Blend', Cachaça, Brazil 14
+- Sailor Jerry 'Spiced Rum', Carribean 15
+- Atlantico Platino, Republica Dominicana 16
+- Mount Gay, 'Black Barrel', Barbados 16
+- Ron Zacapa, '23 Solera', Guatemala 17
+- Ron Zacapa, 'XO Solera', Guatemala 28
+- Del Maguey 'Vida', Espadin 16
+- El Maestro Sierra Pedro Ximenez NV 12
 
 ---
 
 ## Non-Alcoholic Drinks
 
-Lychee Mango Mango, Lychee & Cranberry 12
-Wild Orchid Black Orchid Tea, Elderflower Cordial, Blackberry & Lemon 12
-Pepino Cucumber, Lychee, Pineapple & Lemon 12
-Grapefruit On The Rocks Grapefruit Juice, Elderflower Cordial, Lime & Grated Lime Zest 12
-Ferrarelle Sparkling Water 10
+- Lychee Mango Mango, Lychee & Cranberry 12
+- Wild Orchid Black Orchid Tea, Elderflower Cordial, Blackberry & Lemon 12
+- Pepino Cucumber, Lychee, Pineapple & Lemon 12
+- Grapefruit On The Rocks Grapefruit Juice, Elderflower Cordial, Lime & Grated Lime Zest 12
+- Ferrarelle Sparkling Water 10
 
 ---
 
 ## Ikaati Tea
 
-Hojicha Warm smoky notes with hints of caramel 9
-Black Orchid Ylang ylang flower scented, with smooth vanilla & mandarin notes 9
-Nobu Shiso Captivating fragrance of shiso leaf, delicate sweetness, subtle character 9
-Sobacha Rich malty and nutty aroma with a smooth buttery finish 9
-Lemongrass Ginger Aromatic lemongrass, balanced with warm, spicy ginger 9
-Soothe Comforting floral note with relaxing minty scent 9
+- Hojicha Warm smoky notes with hints of caramel 9
+- Black Orchid Ylang ylang flower scented, with smooth vanilla & mandarin notes 9
+- Nobu Shiso Captivating fragrance of shiso leaf, delicate sweetness, subtle character 9
+- Sobacha Rich malty and nutty aroma with a smooth buttery finish 9
+- Lemongrass Ginger Aromatic lemongrass, balanced with warm, spicy ginger 9
+- Soothe Comforting floral note with relaxing minty scent 9
 
 ---
 
