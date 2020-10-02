@@ -16,26 +16,26 @@ title: menu description
 
 ### Hot Dishes
 
-Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing[[garlic, onion::srs]]
-Squid 'Pasta' with Light Garlic Sauce[[soy, gluten, mushrooms, sesame, alcohol::srs]]
-Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu30|[[soy, gluten, shellfish, garlic, mushrooms::srs]]
-King Crab Tempura Amazu Ponzu43|[[soy, gluten, shellfish, mushroom (honey truffle aioli only)::srs]]
-Lobster Tempura Amazu Ponzu (Half Lobster)[[soy, gluten, shellfish, onion, garlic, (creamy spicy sauce only)::srs]]
-Shrimp and Lobster with Spicy Lemon Sauce[[soy, gluten, garlic, onion, mushroom, shellfish::srs]]
-Short Rib Jalapeno Salsa (per piece[[soy, onion, alcohol, garlic, gluten::srs]]
-Lamb Chop with Anticucho Miso (per piece)[[soy, gluten, garlic, onion, alcohol::srs]]
-Grilled Chicken - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
-Grilled Salmon - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
-Beef Tenderloin - Choice of Sauc[[soy, gluten, alcohol, sesame, garlic::srs]]
+- Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing[[garlic, onion::srs]]
+- Squid 'Pasta' with Light Garlic Sauce[[soy, gluten, mushrooms, sesame, alcohol::srs]]
+- Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu30|[[soy, gluten, shellfish, garlic, mushrooms::srs]]
+- King Crab Tempura Amazu Ponzu43|[[soy, gluten, shellfish, mushroom (honey truffle aioli only)::srs]]
+- Lobster Tempura Amazu Ponzu (Half Lobster)[[soy, gluten, shellfish, onion, garlic, (creamy spicy sauce only)::srs]]
+- Shrimp and Lobster with Spicy Lemon Sauce[[soy, gluten, garlic, onion, mushroom, shellfish::srs]]
+- Short Rib Jalapeno Salsa (per piece[[soy, onion, alcohol, garlic, gluten::srs]]
+- Lamb Chop with Anticucho Miso (per piece)[[soy, gluten, garlic, onion, alcohol::srs]]
+- Grilled Chicken - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
+- Grilled Salmon - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
+- Beef Tenderloin - Choice of Sauc[[soy, gluten, alcohol, sesame, garlic::srs]]
 
-NOBU TACOS Price per piece - 2 pieces mini[[::srs]]
+- NOBU TACOS Price per piece - 2 pieces min
 
-Shiitake Salad with Spicy Lemon Dressing[[soy, gluten, sesame, mushrooms, garlic::srs]]
-Baby Spinach Salad with Dry Miso[[soy, dairy, mushroom, shellfish::srs]]
-Crispy Rice with Spicy Avocado[[soy, gluten, garlic, dairy, alcohol::srs]]
-Roasted Cauliflower Jalapeno Sals[[garlic, onion::srs]]
-Shojin - Vegetable Tempura Selection[[soy, gluten, seafood (in sauce), (may contain) mushroom, onion::srs]]
-Tofu & Vegetables Spicy Garlic[[soy, gluten, garlic, mushroom alcohol::srs]]
+- Shiitake Salad with Spicy Lemon Dressing[[soy, gluten, sesame, mushrooms, garlic::srs]]
+- Baby Spinach Salad with Dry Miso[[soy, dairy, mushroom, shellfish::srs]]
+- Crispy Rice with Spicy Avocado[[soy, gluten, garlic, dairy, alcohol::srs]]
+- Roasted Cauliflower Jalapeno Sals[[garlic, onion::srs]]
+- Shojin - Vegetable Tempura Selection[[soy, gluten, seafood (in sauce), (may contain) mushroom, onion::srs]]
+- Tofu & Vegetables Spicy Garlic[[soy, gluten, garlic, mushroom alcohol::srs]]
 
 A5 Wagyu Beef From Japan 38 per ou
 Choice of Style - Tataki / New Style / St
