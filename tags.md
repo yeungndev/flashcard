@@ -1,7 +1,7 @@
 ---
 layout: post
 title: By Tags
-permalink: /tags/
+permalink: {{ site.baseurl }}/tags/
 content-type: eg
 ---
 
