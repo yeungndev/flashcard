@@ -1,2 +1,0 @@
-# Dairy, Sesame, Fruit::srs
-
