@@ -4,52 +4,138 @@ title: menu description
 ---
 
 ## Menu
+
+### Shuko
+
+- Edamame[[]]
+- Edamame Choclo[[]]
+- Shishito Sea Salt[[]]
+- Shishito Den Miso[[]]
+- Baby Corn, Honey Truffle[[]]
+
+
 ### Cold Dishes
 
+- Toro Tartare with Caviar[[soy, gluten, garlic, onions::srs]]
 - Salmon or Yellowtail Tartare[[soy, gluten, garlic, onions::srs]]
+- Yellowtail Jalapeno
+- Fluke Sashimi Dry Miso
+- New Style Sashimi
+- Tiradito
+- Tuna Tataki with Tosazu
 - Crispy Rice with Spicy Tuna[[soy, gluten, garlic, dairy, alcohol::srs]]
 - Sashimi Salad with Matsuhisa Dressing[[soy, gluten, onions, sesame::srs]]
 - Lobster Shiitake Salad with Spicy Lemon Dressing[[soy, gluten, sesame, shellfish, mushrooms, garlic::srs]]
 - Baby Spinach Salad with Grilled Shrimp[[soy, dairy, mushroom, shellfish::srs]]
 - Baby Spinach Salad with Lobster[[soy, dairy, mushroom, shellfish::srs]]
+
 - Black Cod Butter Lettuce (2 pieces)[[soy, gluten, garlic, alcohol::srs]]
 
 ---
 
 ### Hot Dishes
 
+- Black Cod with Miso
+- Black Cod Butter Lettuce (2 pieces)
+- Umami Sea Bass
 - Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing[[garlic, onion::srs]] 
 - Squid 'Pasta' with Light Garlic Sauce[[soy, gluten, mushrooms, sesame, alcohol::srs]]
 - Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu[[soy, gluten, shellfish, garlic, mushrooms::srs]]
 - King Crab Tempura Amazu Ponzu[[soy, gluten, shellfish, mushroom (honey truffle aioli only)::srs]]
 - Lobster Tempura Amazu Ponzu (Half Lobster)[[soy, gluten, shellfish, onion, garlic, (creamy spicy sauce only)::srs]]
 - Shrimp and Lobster with Spicy Lemon Sauce[[soy, gluten, garlic, onion, mushroom, shellfish::srs]]
-- Short Rib Jalapeno Salsa[[soy, onion, alcohol, garlic, gluten::srs]]
-- Lamb Chop with Anticucho Miso[[soy, gluten, garlic, onion, alcohol::srs]]
-- Grilled Chicken [[soy, gluten, alcohol, sesame, garlic::srs]]
-- Grilled Salmon [[soy, gluten, alcohol, sesame, garlic::srs]]
-- Beef Tenderloin [[soy, gluten, alcohol, sesame, garlic::srs]]
+- Lobster Wasabi Pepper
+- Short Rib Jalapeno Salsa (per piece)[[soy, onion, alcohol, garlic, gluten::srs]]
+- Lamb Chop with Anticucho Miso (per piece)[[soy, gluten, garlic, onion, alcohol::srs]]
+- Wagyu Dumplings
+- Grilled Chicken - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
+- Grilled Salmon - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
+- Beef Tenderloin - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
+- Miso Soup with Tofu
 
 ---
 
-- NOBU TACOS Price per piece - 2 pieces min
+### Nobu Tacos 
+
+- Vegetable
+- Tuna
+- Salmon
+- King Crab
+- Lobster
+- Wagyu
+
+### Vegetables
+
+- Field Greens
 - Shiitake Salad with Spicy Lemon Dressing[[soy, gluten, sesame, mushrooms, garlic::srs]]
 - Baby Spinach Salad with Dry Miso[[soy, dairy, mushroom, shellfish::srs]]
+- Tofu New Style
 - Crispy Rice with Spicy Avocado[[soy, gluten, garlic, dairy, alcohol::srs]]
-- Roasted Cauliflower Jalapeno Sals[[garlic, onion::srs]]
-- Shojin - Vegetable Tempura Selection[[soy, gluten, seafood (in sauce), (may contain) mushroom, onion::srs]]
+- Eggplant with Miso
+- Roasted Cauliflower Jalapeno Salsa[[garlic, onion::srs]]
+- Shojin - Vegetable Tempura Selection[[soy, gluten, seafood (in sauce), (may contain) mushroom, onion::srs]
+- Warm Mushroom Salad
 - Tofu & Vegetables Spicy Garlic[[soy, gluten, garlic, mushroom alcohol::srs]]
 
 ---
 
-A5 Wagyu Beef From Japan 38 per ou
+### A5 Wagyu Beef From Japan 38 per ou
 - Tataki
 - New Style
 - Steak
 
 ---
 
-Nigiri / Sashimi
+### Sushi Bar Selections
+- Sushi Selection
+- Sashimi Selection
+
+---
+
+### Nigiri / Sashimi
+
+- 
+- Tuna[[7.5:srs]]
+- Toro[[16:srs]]
+- Salmon[[7.5:srs]]
+- King Salmon[[8.5:srs]]
+- Yellowtail[[7.5:srs]]
+- Fluke[[7.5:srs]]
+- Japanese Red Snapper[[8.5:srs]]
+- Shrimp[[6.5:srs]]
+- Snow Crab[[8.25:srs]]
+- King Crab[[10:srs]]
+- Scallop[[6.5:srs]]
+- Octopus[[7:srs]]
+- Japanese Eel[[10.5:srs]]
+- Japanese Sea Urchin[[13:srs]]
+- Smelt Eggs[[5.5:srs]]
+- Salmon Eggs[[8:srs]]
+- Tamago[[5:srs]]
+- Wagyu Nigiri[[15:srs]]
+
+---
+
+### Sushi Maki
+
+- 
+Tuna[[10.5 12::srs]]
+Spicy Tuna[[11.5 12.75::srs]]
+Toro & Scallion[[16 20::srs]]
+Yellowtail & Scallion[[10.5 12.25::srs]]
+Yellowtail & Jalapeno[[11.5 12.75::srs]]
+Salmon & Avocado[[11.25 12.5::srs]]
+California[[12.5 15::srs]]
+Shrimp Tempura[[10 15::srs]]
+Baked Snow Crab[[18 ~::srs]]
+Scallop & Smelt Eggs[[12.5 14::srs]]
+Japanese Eel & Cucumber[[13.5 15.5::srs]]
+Kappa[[5.5 6.75::srs]]
+Vegetable[[8 11::srs]]
+Salmon Skin[[9 14::srs]]
+Soft Shell Crab[[~ 20::srs]]
+House Special[[~ 20::srs]]
+Lobster[[~ 34::srs]]
 
 ---
 
