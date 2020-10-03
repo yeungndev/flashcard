@@ -189,12 +189,12 @@ title: menu description
 
 ### Desserts
 
-- Bento Box Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato[[dairy, eggs, caffeine, chocolate::srs]]
-- Banana Soy Toban Soy Caramelized Banana, Candied Pecans, Malaga Gelato
-- Whisky Cappuccino Cardamom Cream, Toasted Cinnamon Crunch, Espresso Gelato, Whisky Foam [[gluten, dairy, nuts (almonds), alcohol, eggs, geletin, caffeine::srs]]
-- Sobacha Brownie Brownie, Salted Caramel, Milk Chocolate Cremeux, Caramel Sobacha Bar Gelato [[dairy, eggs, gluten, chocolate, salt::srs]]
-- Downtown Monkfruit Cheesecake Cheesecake, Strawberry Coulis, Black Sesame [[dairy, sesame, fruit::srs]]
-- Pineapple Coconut Cake Coconut Sponge, Vanilla Roasted Pineapple, Coconut Mousse, Shiro Goma Praline, Lemon Sorbet
+- Bento Box [[Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato \| dairy, eggs, caffeine, chocolate::srs]]
+- Banana Soy Toban [[Soy Caramelized Banana, Candied Pecans, Malaga Gelato::srs]]
+- Whisky Cappuccino [[Cardamom Cream, Toasted Cinnamon Crunch, Espresso Gelato, Whisky Foam  \| gluten, dairy, nuts (almonds), alcohol, eggs, geletin, caffeine::srs]]
+- Sobacha Brownie Brownie  [[Salted Caramel, Milk Chocolate Cremeux, Caramel Sobacha Bar Gelato \|dairy, eggs, gluten, chocolate, salt::srs]]
+- Downtown Monkfruit Cheesecake Cheesecake [[Strawberry Coulis, Black Sesame \| dairy, sesame, fruit::srs]]
+- Pineapple Coconut Cake Coconut Sponge [[Vanilla Roasted Pineapple, Coconut Mousse, Shiro Goma Praline, Lemon Sorbet::Srs]]
 - House-Made Gelato or Sorbet
 - Mochi Ice Cream (3 pieces)
 
@@ -215,20 +215,20 @@ title: menu description
 Winner of the Nationwide Nobu Cocktail Competition
 Victor H. Carreon of Nobu Newport Beach
 
-- Kaiketsu Uncle Nearest 1856 Whiskey, Apple Shrub, Ginger Syrup, Matsuhisa Cabernet Sauvignon Reduction & Orange Bitters 20
+- Kaiketsu Uncle Nearest [[1856 Whiskey, Apple Shrub, Ginger Syrup, Matsuhisa Cabernet Sauvignon Reduction & Orange Bitters 20::srs]]
 
-- Coco Lime (12 oz Bottle) Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup 36
+- Coco Lime [[(12 oz Bottle) Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup 36::srs]]
 
-- Lychee Martini Spring 44 Vodka, Lychee 19
-- Matsuhisa Martini Belvedere Vodka, Junmai Sake, Ginger 19
-- Grapefruit Martini Sipsmith Gin, Elderflower Liqueur, Grapefruit & Lime 20
-- Blood Orange Martini Spring 44 Vodka, St. Germain Elderflower, Blood Orange & Lime 19
-- Mia Margarita Corralejo Anejo Tequila, Passion Fruit, Shichimi, Honey & Lime 19
-- Pina Martini Van Gogh Pineapple Vodka, Giffard Creme de Peche, Pineapple, Lime 19
-- 212 Bulliet Rye, Black Sesame Infused Cocchi Vermouth di Torino, Creole & Orange Bitters 20
-- Scarlet Sipsmith Gin, St. Germain Elderflower, Green Chartreuse, Cucumber, Lime & Pepper 20
-- Nobu Sidecar Iwai Tradition Japanese Whisky, Orange Liqueur & Yuzu 22
-- Barrel Aged Old Fashioned Kikori Whiskey, Luxardo Cherry, Demerara Sugar & Angostura 22
+- Lychee Martini [[Spring 44 Vodka, Lychee 19::srs]]
+- Matsuhisa Martini [[Belvedere Vodka, Junmai Sake, Ginger 19::srs]]
+- Grapefruit Martini [[Sipsmith Gin, Elderflower Liqueur, Grapefruit & Lime 20::srs]]
+- Blood Orange Martini [[Spring 44 Vodka, St. Germain Elderflower, Blood Orange & Lime 19::srs]]
+- Mia Margarita [[Corralejo Anejo Tequila, Passion Fruit, Shichimi, Honey & Lime 19::srs]]
+- Pina Martini [[Van Gogh Pineapple Vodka, Giffard Creme de Peche, Pineapple, Lime 19::srs]]
+- 212 [[Bulliet Rye, Black Sesame Infused Cocchi Vermouth di Torino, Creole & Orange Bitters 20::srs]]
+- Scarlet [[Sipsmith Gin, St. Germain Elderflower, Green Chartreuse, Cucumber, Lime & Pepper 20::srs]]
+- Nobu Sidecar [[Iwai Tradition Japanese Whisky, Orange Liqueur & Yuzu 22::srs]]
+- Barrel Aged Old Fashioned [[Kikori Whiskey, Luxardo Cherry, Demerara Sugar & Angostura 22::srs]]
 
 ---
 
@@ -268,19 +268,19 @@ Victor H. Carreon of Nobu Newport Beach
 
 Exclusively Imported for Nobu Worldwide
 
-- Ginjo Nigori Unfiltered, dry and creamy
-- Junmai Medium bodied with rich notes and a creamy finish
-- Honjozo Onigoroshi "Devil Killer" Light-bodied, crisp and dry with a spicy finish
-- Daiginjo "Black Label The Original" Medium-bodied, light and crisp with a nutty character
-- Nobu Junmai Ginjo 71 Medium-bodied, fruit forward with a bright finish
-- Honjozo Ongakushi Koshu "Music Sake" Aged to classical music; full-bodied and rich with earthy flavors
-- Nobu Junmai Daiginjo "The Sake" Medium-bodied, clean and complex with floral notes
-- Nobu Daiginjo Tk40 "The Premium Sake" Medium-bodied, delicate and creamy
-- Nobu Daiginjo YK35 Medium-bodied, rare, luxurious, silky and smooth
-- YK-35 "Enshinbunri" The rice grain, Yamada Nishiki, is polished down to 35% of its original size and is then extracted through a centrifugal process to bring out delicate fragrances of Melons, Grapefruits and White Flowers.Bottle 24 oz 700
-- Junmai Daiginjo Tk40 Genshu Enshinbunri 'Hikari' The rare hybrid rice grain, Koshitanrei, is polished to 40% of its original size to produce this premium sake. Elegant floral flavors of Orange Blossom, Elderflower, and White Tea are found in this powerful Genshu, or undiluted sake. Bottle 24 oz 670
-- YK-35 Shizuku The most sought-after rice grain, Yamada Nishiki, is polished to 35% of its original size to produce this premium sake. The sake is extracted through a slow drip process that highlights delicate flavors of Lychee, Honeydew, and Pear. Fruit forward and amazingly smooBottle 24 oz 400
-- Daiginjo YK35 Shizuku Jukusei Koshu This is the YK35 Shizuku, aged for three years. The aging process has added structure to the delicate Nashi Pear flavor becoming highly complex with a deep richness not found in young sake. This is made in extremely limited quantities. Bottle 60 oz 2,500
+- Ginjo Nigori [[Unfiltered, dry and creamy::srs]]
+- Junmai [[Medium bodied with rich notes and a creamy finish::srs]]
+- Honjozo Onigoroshi "Devil Killer" [[Light-bodied, crisp and dry with a spicy finish::srs]]
+- Daiginjo [["Black Label The Original" Medium-bodied, light and crisp with a nutty character::srs]]
+- Nobu Junmai Ginjo 71 [[Medium-bodied, fruit forward with a bright finish::srs]]
+- Honjozo Ongakushi Koshu [["Music Sake" Aged to classical music; full-bodied and rich with earthy flavors::srs]]
+- Nobu Junmai Daiginjo [["The Sake" Medium-bodied, clean and complex with floral notes::srs]]
+- Nobu Daiginjo Tk40 [["The Premium Sake" Medium-bodied, delicate and creamy::srs]]
+- Nobu Daiginjo YK35 [[Medium-bodied, rare, luxurious, silky and smooth::srs]]
+- YK-35 "Enshinbunri" [[The rice grain, Yamada Nishiki, is polished down to 35% of its original size and is then extracted through a centrifugal process to bring out delicate fragrances of Melons, Grapefruits and White Flowers.Bottle 24 oz 700::srs]]
+- Junmai Daiginjo Tk40 [[Genshu Enshinbunri 'Hikari' The rare hybrid rice grain, Koshitanrei, is polished to 40% of its original size to produce this premium sake. Elegant floral flavors of Orange Blossom, Elderflower, and White Tea are found in this powerful Genshu, or undiluted sake. Bottle 24 oz 670::srs]]
+- YK-35 Shizuku [[The most sought-after rice grain, Yamada Nishiki, is polished to 35% of its original size to produce this premium sake. The sake is extracted through a slow drip process that highlights delicate flavors of Lychee, Honeydew, and Pear. Fruit forward and amazingly smooBottle 24 oz 400::srs]]
+- Daiginjo YK35 [[Shizuku Jukusei Koshu This is the YK35 Shizuku, aged for three years. The aging process has added structure to the delicate Nashi Pear flavor becoming highly complex with a deep richness not found in young sake. This is made in extremely limited quantities. Bottle 60 oz 2,500::srs]]
 
 ---
 
@@ -369,10 +369,10 @@ Exclusively Imported for Nobu Worldwide
 
 ## Non-Alcoholic Drinks
 
-- Lychee Mango Mango, Lychee & Cranberry 12
-- Wild Orchid Black Orchid Tea, Elderflower Cordial, Blackberry & Lemon 12
-- Pepino Cucumber, Lychee, Pineapple & Lemon 12
-- Grapefruit On The Rocks Grapefruit Juice, Elderflower Cordial, Lime & Grated Lime Zest 12
+- Lychee Mango Mango, [[Lychee & Cranberry 12::srs]]
+- Wild Orchid Black Orchid Tea, [[Elderflower Cordial, Blackberry & Lemon 12::srs]]
+- Pepino Cucumber, [[Lychee, Pineapple & Lemon 12::srs]]
+- Grapefruit On The Rocks [[Grapefruit Juice, Elderflower Cordial, Lime & Grated Lime Zest 12::srs]]
 - Ferrarelle Sparkling Water 10
 
 ---
@@ -531,12 +531,12 @@ Exclusively Imported for Nobu Worldwide
 
 ### Dressing
 
-- Matsuhisa Dressing minced onion, sesame oil, grapeseed oil, soy sauce, rice vinegar, japanese mustard, black pepper, sugar
-- Yuzu Dressing grapeseed oil, soy sauce, yuzu juice, garlic puree, black pepper
-- Spicy Lemon Dressing grapeseed oil, soy sauce, lemon juice, cayenne pepper, garlic puree, black pepper, salt
-- Ceviche Sauce aji amarillo, lemon juice, soy sauce, salt, garlic puree, black pepper, ginger and yuzu juice, ensui (egg white, salt, water)
-- Tofu Truffle Dressing tofu, truffle oil, grapeseed oil, white soy, vinegar, salt, pepper
-- Tofu Aioli tofu, yuzu juice, olive oil
+- Matsuhisa Dressing [[minced onion, sesame oil, grapeseed oil, soy sauce, rice vinegar, japanese mustard, black pepper, sugar::srs]]
+- Yuzu Dressing [[grapeseed oil, soy sauce, yuzu juice, garlic puree, black pepper::srs]]
+- Spicy Lemon [[Dressing grapeseed oil, soy sauce, lemon juice, cayenne pepper, garlic puree, black pepper, salt::srs]]
+- Ceviche Sauce [[aji amarillo, lemon juice, soy sauce, salt, garlic puree, black pepper, ginger and yuzu juice, ensui (egg white, salt, water)::srs]]
+- Tofu Truffle [[Dressing tofu, truffle oil, grapeseed oil, white soy, vinegar, salt, pepper::srs]]
+- Tofu Aioli [[tofu, yuzu juice, olive oil::srs]]
 
 ### Aioli Based Sauces
 
@@ -546,32 +546,32 @@ Exclusively Imported for Nobu Worldwide
 
 ### Soy Based Sauces
 
-- Wasabi Soy - soy sauce, low sodium soy sauce, dashi, hon dashi, water, wasabi
-- Yuzu Soy - yuzu juice, soy sauce
-- Chili Soy Sauce - Ginger, negi, ryu, sesame and olive oil, ponzu
-- Ponzu - Rice vinegar, lemon juice, soy sauce
-- Goma Ponzu - Sesame oil, ponzu, den miso
-- Amazu Ponzu - Sugar, salt, rice wine vinegar, lemon juice, soy sauce
-- Butter Ponzu Sauce - Clarified butter, shichimi, ponzu
-- Tosazu - dashi, mirin, soy sauce
-- Tempura Sauce - dashi, mirin, soy sauce
-- Donburi Sauce - dashi, mirin, soy sauce, (different ratio than tempura sauce)
-- Eel Sauce - soy sauce, sugar, sake, mirin, eel bones
-- Tare - chicken stock, soy sauce, sugar, sake, mirin
-- Light Garlic Sauce - sliced garlic, shichimi, olive oil, soy sauce
-- Spicy Garlic Sauce - chili garlic, sake, sake soy
-- Wasabi Pepper Sauce - butter, olive oil, sliced garlic, black pepper, wasabi, soy sauce, dashi, hon dashi,  - water, (+sake is used to deglaze pan before the sauce added)
-- Black Bean Sauce - black bean paste (gluten free), sake, black pepper
-- Anticucho Yellow - aji amarillo
+- Wasabi Soy [[soy sauce, low sodium soy sauce, dashi, hon dashi, water, wasabi::srs]]
+- Yuzu Soy [[yuzu juice, soy sauce::srs]]
+- Chili Soy Sauce [[Ginger, negi, ryu, sesame and olive oil, ponzu::srs]]
+- Ponzu [[Rice vinegar, lemon juice, soy sauce::srs]]
+- Goma Ponzu [[Sesame oil, ponzu, den miso::srs]]
+- Amazu Ponzu [[Sugar, salt, rice wine vinegar, lemon juice, soy sauce::srs]]
+- Butter Ponzu Sauce [[Clarified butter, shichimi, ponzu::srs]]
+- Tosazu [[dashi, mirin, soy sauce::srs]]
+- Tempura Sauce [[dashi, mirin, soy sauce::srs]]
+- Donburi Sauce [[dashi, mirin, soy sauce, (different ratio than tempura sauce)::srs]]
+- Eel Sauce [[soy sauce, sugar, sake, mirin, eel bones::srs]]
+- Tare [[chicken stock, soy sauce, sugar, sake, mirin::srs]]
+- Light Garlic Sauce [[sliced garlic, shichimi, olive oil, soy sauce::srs]]
+- Spicy Garlic Sauce [[chili garlic, sake, sake soy::srs]]
+- Wasabi Pepper Sauce [[butter, olive oil, sliced garlic, black pepper, wasabi, soy sauce, dashi, hon dashi,  - water, (+sake is used to deglaze pan before the sauce added)::srs]]
+- Black Bean Sauce [[black bean paste (gluten free), sake, black pepper::srs]]
+- Anticucho Yellow [[aji amarillo::srs]]
 
 ### Other
 
-- Teriyaki Chicken stock (roasted chicken bones boiled with water, carrots, onion and celery), soy sauce, sugar, mirin, sake
-- Spicy Dashi Broth dashi, vinegar, kochijan (Korean spicy miso paste and sake soy), garlic, ginger, salt, low sodium soy, yuzu juice, red onion, cilantro & cucumber
-- Egg Sauce egg yolks, clarified butter, lemon juice, soy sauce
-- Chimichurri cilantro, parsley, shiso, scallion, garlic, myoga (ginger bulb), jalapeno
-- Poke Sauce den miso, ponzu, aji amarillo, ryu
-- Umami Marinade mixed vegetables (leek, onions, carrots, ginger, sweet potato, potato, celery, garlic, daikon), dry konbu, dried chili, salt, soy salt
+- Teriyaki [[Chicken stock (roasted chicken bones boiled with water, carrots, onion and celery), soy sauce, sugar, mirin, sake::srs]]
+- Spicy Dashi Broth [[dashi, vinegar, kochijan (Korean spicy miso paste and sake soy), garlic, ginger, salt, low sodium soy, yuzu juice, red onion, cilantro & cucumber::srs]]
+- Egg Sauce [[egg yolks, clarified butter, lemon juice, soy sauce::srs]]
+- Chimichurri [[cilantro, parsley, shiso, scallion, garlic, myoga (ginger bulb), jalapeno::srs]]
+- Poke Sauce [[den miso, ponzu, aji amarillo, ryu::srs]]
+- Umami Marinade [[mixed vegetables (leek, onions, carrots, ginger, sweet potato, potato, celery, garlic, daikon), dry konbu, dried chili, salt, soy salt::srs]]
 
 ---
 
