@@ -65,6 +65,7 @@ title: menu description
 - [Whiskey](#whiskey-1)
   - [Nobu Whisky, Single Malt \Yamazaki, Osaka](#nobu-whisky-single-malt-yamazaki-osaka-1)
   - [Bourbon](#bourbon-1)
+  - [Scotch Whisky](#scotch-whisky)
 - [Vodka](#vodka-1)
 - [Gin](#gin-1)
 - [Rum](#rum-1)
@@ -736,6 +737,8 @@ Exclusively Imported for Nobu Worldwide
 - High West, Double Rye, Utah 16
 - Whistle Pig, Rye, Vermont 19
 
+### Scotch Whisky 
+
 - Bruichladdich 'Classic Barley', Islay, 10 yr 16
 - Monkey Shoulder, Speyside 16
 - Glenfiddich, Speyside, 12 yr 17
@@ -753,9 +756,9 @@ Exclusively Imported for Nobu Worldwide
 
 ## Vodka
 
-- - Ketel One, Holland (Citroen, Oranj) 17
-- - Stolichnaya, Latvia (Razberi, Vanil) 17
-- - Beluga 'Gold Line,' Russia 28
+- Ketel One, Holland (Citroen, Oranj) 17
+- Stolichnaya, Latvia (Razberi, Vanil) 17
+- Beluga 'Gold Line,' Russia 28
 
 ---
 
