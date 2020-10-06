@@ -29,10 +29,10 @@ sass:
 collections:
     notes:
       output: true
-      permalink: /notes/:title
+      permalink: /:site.basrurl/notes/:title
 
 disqus:
-  shortname: raghuveerdotnet
+  # shortname: raghuveerdotnet
 
 defaults:
   - scope:
