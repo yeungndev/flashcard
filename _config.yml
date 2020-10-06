@@ -29,7 +29,7 @@ sass:
 collections:
     notes:
       output: true
-      permalink: /:site.basrurl/notes/:title
+      permalink: /:site.baseurl/notes/:title
 
 disqus:
   # shortname: raghuveerdotnet
