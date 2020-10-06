@@ -1,7 +1,7 @@
 ---
 layout: post
 title: By Tags
-permalink: {{ site.baseurl }}/tags/
+permalink: /flashcard/tags/
 content-type: eg
 ---
 
