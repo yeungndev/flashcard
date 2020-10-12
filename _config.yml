@@ -30,7 +30,7 @@ sass:
 collections:
     notes:
       output: true
-      permalink: /flashcard/notes/:title
+      permalink: /notes/:title
 
 disqus:
   # shortname: raghuveerdotnet
@@ -41,7 +41,7 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /flashcard/posts/:title
+      permalink: /posts/:title
       content-type: post
   - scope:
       path: ""
