@@ -95,7 +95,7 @@ title: menu description
 - Lobster Wasabi Pepper[[soy, gluten, mushroom, shellfish, garlic, alcohol, dairy::srs]]
 - Short Rib Jalapeno Salsa (per piece)[[soy, onion, alcohol, garlic, gluten::srs]]
 - Lamb Chop with Anticucho Miso (per piece)[[soy, gluten, garlic, onion, alcohol::srs]]
-- Wagyu Dumplings[[soy, gluten, onion, egg, alcohol, dairy::srs]]
+- Wagyu Dumplings[[Pan Seared wagyu beef & foie gras dumplings served with karashi miso ponzu. 5 pcs gyoza filled with wagyu beef, foie gras, dried shiitake mushrooms, tofuy, scallion, karashi miso, wrapped in gyoza skin. Allergy: soy, gluten, onion, egg, alcohol, dairy mushrooms::srs]]
 - Grilled Chicken - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
 - Grilled Salmon - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
 - Beef Tenderloin - Choice of Sauce[[soy, gluten, alcohol, sesame, garlic::srs]]
