@@ -1,11 +1,12 @@
-title: Simply Jekyll
+title: Flashcard
 name: John Doe
 user_description: Programmer (Interested in Philosophy and Math)
-# profile_pic: /assets/img/profile.png
-# favicon: /assets/img/favicon.png
+notes_url: "https://simply-jekyll.netlify.app"
+profile_pic: /assets/img/profile.png
+favicon: /assets/img/favicon.png
 copyright_name: John Doe
 baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
@@ -29,10 +30,10 @@ sass:
 collections:
     notes:
       output: true
-      permalink: /:site.baseurl/notes/:title
+      permalink: /notes/:title
 
 disqus:
-  # shortname: raghuveerdotnet
+  shortname: raghuveerdotnet
 
 defaults:
   - scope:

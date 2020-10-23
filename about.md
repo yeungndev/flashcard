@@ -53,7 +53,7 @@ Some Less know features:
 
 - Go back to the blog home or to the notes page, and try to right click on any of the entry. [Hint: Zettelkasten]
 
-- Click this card [[Memorize me so that you do well in your exams::srs]] looking thing to know how I use my notes. [Hint: SRS]
+- Click this card[[Memorize me so that you do well in your exams::srs]] looking thing to know how I use my notes. [Hint: SRS]
 
 Other Details:
 
