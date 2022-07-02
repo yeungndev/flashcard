@@ -1,12 +1,12 @@
 title: Flashcard
-name: John Doe
-user_description: Programmer (Interested in Philosophy and Math)
-notes_url: ""
-profile_pic: /assets/img/profile.png
-favicon: /assets/img/favicon.png
-copyright_name: John Doe
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# name: John Doe
+# user_description: Programmer (Interested in Philosophy and Math)
+# notes_url: ""
+# profile_pic: /assets/img/profile.png
+# favicon: /assets/img/favicon.png
+copyright_name: yeungn
+baseurl: "https://yeungndev.github.io/" # the subpath of your site, e.g. /blog
+url: "/flashcards" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
@@ -32,8 +32,8 @@ collections:
       output: true
       permalink: /notes/:title
 
-disqus:
-  shortname: raghuveerdotnet
+# disqus:
+#   shortname: raghuveerdotnet
 
 defaults:
   - scope:
