@@ -7,7 +7,7 @@ title: Flashcard
 
 copyright_name: yeungn
 baseurl: "/flashcard" # the subpath of your site, e.g. /blog
-url: "https://yeungndev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yeungndev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 encoding: utf-8
 
@@ -32,7 +32,7 @@ sass:
 collections:
     notes:
       output: true
-      permalink: /notes/:title
+      permalink: /flashcard/notes/:title
 
 # disqus:
 #   shortname: raghuveerdotnet
