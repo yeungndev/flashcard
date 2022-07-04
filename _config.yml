@@ -51,3 +51,4 @@ defaults:
     values:
       layout: notes
       content-type: notes
+      permalink: /notes/:title
