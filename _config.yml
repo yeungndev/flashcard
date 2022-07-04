@@ -4,9 +4,11 @@ title: Flashcard
 # notes_url: ""
 # profile_pic: /assets/img/profile.png
 # favicon: /assets/img/favicon.png
+
 copyright_name: yeungn
 baseurl: "/flashcard" # the subpath of your site, e.g. /blog
 url: "https://yeungndev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
 encoding: utf-8
 
 # Build settings
